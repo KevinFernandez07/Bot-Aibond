@@ -1,12 +1,12 @@
-# Bot-Aibond
+# Bot-Aibond (no oficial)
 
-Aibond es un bot de Discord con inteligencia artificial, conversación y memoria a largo plazo.
+Bot de Discord personal y de prueba que conecta el servidor personal de su creador con **Aibond**, un juego disponible en Steam.
 
-> **Aviso:** Aibond es un proyecto personal y de prueba. Está pensado para usarse en el servidor personal de su creador y no es un servicio público ni comercial. Puede cambiar, fallar o dejar de funcionar en cualquier momento.
+> **Aviso:** este proyecto no es oficial y no está afiliado, patrocinado ni respaldado por los desarrolladores de Aibond. Aibond, su nombre y todo su contenido pertenecen a sus respectivos dueños. Este bot es solo una conexión personal para pruebas, no un servicio público ni comercial, y puede dejar de funcionar en cualquier momento.
 
 ## Qué hace
-- Conversa con las personas del servidor usando inteligencia artificial.
-- Guarda información básica de las conversaciones para recordar contexto en el futuro (memoria a largo plazo).
+- Permite conversar con Aibond desde un canal de texto de Discord.
+- La conversación y la memoria se guardan según el funcionamiento de Aibond.
 
 ## Documentos legales
 - [Condiciones del servicio](TERMS_OF_SERVICE.md)
@@ -15,5 +15,5 @@ Aibond es un bot de Discord con inteligencia artificial, conversación y memoria
 ## Contacto
 Dudas, solicitudes o eliminación de datos: fedezmarck42@gmail.com
 
-## Creador
-Proyecto desarrollado por KevinFernandez07.
+## Creador de esta conexión
+KevinFernandez07 (solo de la conexión con Discord, no del juego Aibond).
